@@ -1,6 +1,6 @@
 # Anti-Atak | Made by m2_zm
 
-> **m2_zm 2023-2025 © MIT**
+> **m2_zm 2024-2025 © MIT**
 
 ## Özellikler
 - `servisatk.exe`işlemini sonlandırıp atak'ı geçici devre dışı bırakma.
