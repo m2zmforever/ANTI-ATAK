@@ -1,6 +1,4 @@
-# ANTI - A.T.A.K (Akıllı Tahta Akıllı Kontrol)  | Remake by m2_zm
-
-> **m2_zm 2024-2025 © MIT**
+# ANTI - A.T.A.K (Akıllı Tahta Akıllı Kontrol)
 
 ## Özellikler
 - `servisatk.exe` işlemini sonlandırıp atak'ı geçici devre dışı bırakmak için bir proje.
@@ -12,7 +10,7 @@
    ```
 2. .exe olarak derleyin:
    ```powershell
-   .\.venv\Scripts\pyinstaller.exe --onefile --console --name anti_atak anti_atak.py --hidden-import psutil --hidden-import win10toast --hidden-import plyer --hidden-import plyer.platforms.win.notification
+   pyinstaller.exe --onefile --console --name anti_atak anti_atak.py --hidden-import psutil --hidden-import win10toast --hidden-import plyer --hidden-import plyer.platforms.win.notification
    ```
 3. Anti-atak'ı bir usb'ye atınız.
 
@@ -35,7 +33,4 @@ Yakalanırsanız Ben Sorumlu Değilim Gencolar.
 
 Ana Geliştirici: m2_zm
 Anti-Atak Fikir Sahibi: Syo
-
-## Lisans
-MIT
 
